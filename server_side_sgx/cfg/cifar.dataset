@@ -1,0 +1,8 @@
+classes=10
+train  = ../../../Github/darknet/data/cifar/cifar.train.list
+valid  = ../../../Github/darknet/data/cifar/cifar.valid.list
+test   = ../../../Github/darknet/data/cifar/cifar.test.list
+backup = results/
+labels = ../../../Github/darknet/data/cifar/cifar.labels.list
+names  = ../../../Github/darknet/data/cifar/cifar.names.list
+top = 5
